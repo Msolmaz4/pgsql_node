@@ -1,5 +1,6 @@
 
-```
+```![pgsql](https://github.com/Msolmaz4/pgsql_node/assets/86296198/b7027930-0d00-4b4e-897a-0055a3282141)
+
 create User dDOC
 https://node-postgres.com/features/queriesconst
  text = 'INSERT INTO users(name, email) VALUES($1, $2) RETURNING *'
