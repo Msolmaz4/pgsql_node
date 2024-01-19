@@ -1,6 +1,6 @@
 
-```
-![pgsql](https://github.com/Msolmaz4/pgsql_node/assets/86296198/b7027930-0d00-4b4e-897a-0055a3282141)
+![pgsql](https://github.com/Msolmaz4/pgsql_node/assets/86296198/805ab83c-8c64-4f8a-989c-8b65cf391fd1)
+
 
 create User dDOC
 https://node-postgres.com/features/queriesconst
